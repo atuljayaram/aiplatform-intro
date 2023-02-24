@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python TEST
 # coding: utf-8
 
 # ##### Copyright 2019 The TensorFlow Authors.
